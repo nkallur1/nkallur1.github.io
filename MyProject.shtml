@@ -1,0 +1,80 @@
+
+  <!--#include virtual="./header.html"-->
+<div class="bgimg-1">
+  <div class="caption">
+    <span class="border">ZERO WASTE</span>
+  </div>
+</div> 
+  
+
+ 
+
+<div class="mainpagecontent">
+  <h3>What is zero waste?</h3>
+  <p style="font-size:25px;">ZERO WASTE is Eliminating the Idea of Waste by recycling the "non-recyclable" as well as "recyclable materials" Whether it's coffee capsules from your home, pens from a school, or plastic gloves from a manufacturing facility, Zero Waste can collect and recycle almost any form of waste. We partner with individual collectors such as yourself, as well as major consumer product companies, retailers, manufacturers, municipalities, and small businesses across 20 different countries. With your help, we are able to divert millions of pounds of waste from landfills and incinerators each month.  <br>   </p>
+</div>
+   <div class="mainpagecontent">
+  <h3>A culture of recycling</h3>
+   <p style="font-size:25px;">  Zero Waste Recycling is a national recycling company, founded on the belief that waste has a value. Our mission is to help manufacturing, distribution, and other businesses recycle more and landfill less. Contact us today to discover the opportunities waiting in your waste stream.</p>
+    <br>
+<div class="bgimg-2">
+  <div class="caption">
+    
+    <span class="border" style="background-color:transparent;font-size:25px;color: #f7f7f7;background-color: #111;">"Because We Believe That Waste Has Value"</span> <br>
+     
+</div>
+</div>  
+  
+  <h1> HOW WE RECYCLE:<h1>
+  
+<div class="imagegallery">
+<div class="responsive" >
+  <div class="gallery">
+    <a target="_blank" href="content.html#plastics">
+      <img src="plastic.png" alt="plastic" width="300" height="200">
+    </a>
+    <div class="desc">plastic</div>
+  </div>
+</div>
+
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="content.html#ewaste">
+      <img src="e-waste.png" alt="e-waste" width="600" height="400">
+    </a>
+    <div class="desc">e-waste</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="content.html#metals">
+      <img src="metal.png" alt="metals" width="600" height="400">
+    </a>
+    <div class="desc">metals</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="content.html#food">
+      <img src="food.png" alt="food waste" width="600" height="400">
+    </a>
+    <div class="desc">food</div>
+  </div>
+</div>
+
+<div class="clearfix"></div>
+
+    </div>
+
+
+</div>
+
+ <div class="mainpagecontent">
+  <h3>Free Recycling Programs</h3>
+  <p style="font-size:25px;">Zero Waste offers free recycling programs funded by brands, manufacturers, and retailers around the world to help you collect and recycle your hard-to-recycle waste. Simply choose the programs you’d like to join; start collecting in your home, school, or office; download free shipping labels; and send us your waste to be recycled. You can even earn rewards for your school or favorite non-profit!  </p>
+</div>
+  
+<!--#include virtual="./footer.html" -->

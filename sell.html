@@ -1,0 +1,107 @@
+
+<html xmlns = "http:///www.w3.org/1999/xhtml">
+  <head>
+    <title> Sell your waste  </title>
+  </head>
+  <body>
+
+    <form action = "sell.php" 
+          method = "post">
+      <h2> We told you "waste has value!!" </h2>
+
+      <table>
+
+<!-- Text widgets for the customer?s name and address -->
+
+        <tr>
+          <td> Name: </td>
+          <td> <input type = "text" name = "name" 
+                      size = "30" /></td>
+        </tr>
+        <tr>
+          <td> Street Address: </td>
+          <td> <input type = "text" name = "street" 
+	                      size = "30" /></td>
+	        </tr>
+	        <tr>
+	          <td> City, State, Zip: </td>
+	          <td> <input type = "text" name = "city" 
+	                      size = "30" /></td>
+	        </tr>
+	      </table>
+	      <p />
+	      <table border = "border">
+	
+	<!-- First, the column headings -->
+	
+	        <tr>
+	          <th> Type of waste </th>
+	          <th> Price </th>
+	          <th> Quantity </th>
+	        </tr>
+	
+	<!-- Now, the table data entries -->
+	
+	        <tr>
+	          <td> plastic(1 lb.) </td>
+	          <td> $3.00 </td>
+	          <td align = "center"> 
+	            <input type = "text" name = "plastic" 
+	                   size = "3" /></td>
+	        </tr>
+	        <tr>
+	          <td> ewaste(2 lb) </td>
+	          <td> $5.00 </td>
+	          <td align = "center"> 
+	            <input type = "text" name = "ewaste"
+	                   size = "3" /> </td>
+	        </tr>
+	        <tr>
+	          <td> food(2 lb.) </td>
+	          <td> $9.50 </td>
+	          <td align = "center"> 
+	            <input type = "text" name = "food"
+	                   size = "3" /> </td>
+	        </tr>
+	        <tr>
+	          <td> metals (2 lb. ) </td>
+                  <td> $8.00 </td>
+                     <td align = "center"> 
+                     <input type = "text" name = "metals"
+                   size = "3" /> </td>
+              </tr>
+ <tr>
+	          <td> others</td>
+                  <td> $5.00 </td>
+                     <td align = "center"> 
+                     <input type = "text" name = "others"
+                   size = "3" /> </td>
+              </tr>
+
+      </table>
+      <p />
+
+<!-- The radio buttons for the payment method -->
+
+      <h3> Payment Method </h3>
+      <p>
+        <input type = "radio" name = "payment" value = "visa" 
+              checked = "checked" /> 
+          Visa <br />
+        <input type = "radio" name = "payment" value = "mc" /> 
+          Master Card <br />
+        <input type = "radio" name = "payment" 
+               value = "discover" />
+          Discover <br />
+        <input type = "radio" name = "payment" value = "check" /> 
+          Check <br /> <br />
+
+<!-- The submit and reset buttons -->
+
+        <input type = "submit" value = "sell" />
+        <input type = "reset" value = "clear" />
+      </p>
+    </form>
+  </body>
+</html>
+</html>
